@@ -1,0 +1,1 @@
+# lunch-money-manual-sync
